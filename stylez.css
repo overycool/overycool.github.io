@@ -1,3 +1,4 @@
+/* clickable dropdown
 #demo {
         margin: 30px 0 50px 0;
         font-family: helvetica;
@@ -95,6 +96,7 @@
 
     #demo .content li:last-of-type {
     }
+    */
 
 
 a:link {
@@ -139,7 +141,6 @@ color:rgb(255, 255, 255)
 .notextdeco {
   text-decoration: none;
 }
-/*
 .dropdowner:hover {
   color:rgb(0, 255, 171);
   cursor: pointer;
@@ -157,7 +158,6 @@ color:rgb(255, 255, 255)
   z-index: 1;
   min-width: 150px
 }
-*/
 .sunbleached {
   font-size: 100px;
   font-weight:bold;
