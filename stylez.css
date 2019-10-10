@@ -1,0 +1,76 @@
+a:link {
+  color: white;
+}
+a:visited {
+  color:rgb(255, 161, 183);
+  text-decoration: line-through;
+  background-color: inherit;
+}
+a:hover {
+  color:rgb(0, 255, 171)
+}
+
+body {
+background-color:black;
+font-family:helvetica;
+color:rgb(255, 255, 255)
+}
+.centerimage {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+
+.titletime {
+  font-size:35px;
+  font-style:oblique;
+  font-weight:bold;
+  text-decoration: line-through;
+  color:white;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.spacedtext {
+  word-spacing: 36px;
+}
+.notextdeco {
+  text-decoration: none;
+}
+.dropdowner:hover {
+  color:rgb(0, 255, 171);
+  cursor: pointer;
+}
+.dropdown {
+  position: relative;
+  display:inline-block;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown-content{
+  display: none;
+  position: absolute;
+  z-index: 1;
+  min-width: 150px
+}
+.sunbleached {
+  font-size: 100px;
+  font-weight:bold;
+  color: rgb(255, 107, 0);
+  text-align: left;
+}
+.dusk {
+  font-size: 100px;
+  font-weight:bold;
+  color: rgb(35, 55, 107);
+}
+.player {
+  max-width: 200px
+}
+.edgytext {
+  font-family: monospace;
+}
