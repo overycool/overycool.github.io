@@ -196,3 +196,12 @@ font-family:helvetica;
 .flatwhite {
   color:white;
 }
+.join {
+  color:green;
+  font-family:monospace;
+  text-align: center;
+}
+.join:hover {
+  color:rgb(148, 182, 26);
+
+}
